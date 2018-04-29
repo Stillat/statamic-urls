@@ -3,7 +3,7 @@
     "displayName": "Statamic URLs",
     "description": "Generates Statamic URLs",
     "version": "0.0.1",
-    "publisher": "stillatllc",
+    "publisher": "stillat-llc",
     "repository": {
         "type": "git",
         "url": "https://github.com/Stillat/statamic-urls.git"
