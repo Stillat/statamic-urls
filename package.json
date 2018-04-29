@@ -4,6 +4,10 @@
     "description": "Generates Statamic URLs",
     "version": "0.0.1",
     "publisher": "stillatllc",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Stillat/statamic-urls.git"
+    },
     "engines": {
         "vscode": "^1.22.0"
     },
